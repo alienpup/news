@@ -26,7 +26,7 @@ Click on the scrapbook file name to edit a scrapbook page.
 
 Click on the scrapbook file name to view a scrapbook page revision history.
 
-   Click the “history”button (upper right of screen).
+   Click the “History”button (upper right of screen).
 
 Click “Code > Download ZIP” to download all the current pages as a backup.
 
