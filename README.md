@@ -16,17 +16,21 @@ As this is a simple archive of the markdown contents of the scrapbook pages, we 
 
 To that end we will not need separate branches, forks, merging, pushing, and pulling, etc. All operations will be on the “Main” or in our case the “/news” branch.
 
+### To Manage Content:
+
 From the Repository Page: [https://github.com/rmsrepublic/news](https://github.com/rmsrepublic/news)
 
-Click “Add File” to upload a new scrapbook page.
+* Click “Add File” to upload a new scrapbook page.
 
-Click on the scrapbook file name to edit a scrapbook page.
+* Click on the scrapbook file name to edit a scrapbook page.
 
-   After editing, scroll to page bottom and add any applicable revision notes in the “Add an optional extended description . . .” block. Do not change the “Create or Update . . .” text, use default as presented.
+   + Click on the "Pen" icon in the toolbar to launch the editor.
 
-Click on the scrapbook file name to view a scrapbook page revision history.
+   + After editing, scroll to page bottom and add any applicable revision notes in the “Add an optional extended description . . .” block. Do not change the “Create or Update . . .” text, use default as presented.
 
-   Click the “History”button (upper right of screen).
+* Click on the scrapbook file name to view a scrapbook page revision history.
 
-Click “Code > Download ZIP” to download all the current pages as a backup.
+   + Click the “History”button (upper right of screen).
+
+* Click “Code > Download ZIP” to download all the current pages as a backup.
 
