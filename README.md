@@ -1,3 +1,5 @@
+# RMS Republic News - Scrapbook README
+
 # RMS Republic News - Scrapbook Page Archive
 
 This repository contains OCR scanned text from the 122 scrapbook image pages in standard markdown format.
@@ -20,17 +22,11 @@ To that end we will not need separate branches, forks, merging, pushing, and pul
 
 From the Repository Page: [https://github.com/rmsrepublic/news](https://github.com/rmsrepublic/news)
 
-* Click “Add File” to upload a new scrapbook page.
-
-* Click on the scrapbook file name to edit a scrapbook page.
-
+- On the Toolbar Click “Add File > Upload Files” to upload a new scrapbook page.
+- Click on the scrapbook file name to edit a scrapbook page.
    + Click on the "Pen" icon in the toolbar to launch the editor.
-
    + After editing, scroll to page bottom and add any applicable revision notes in the “Add an optional extended description . . .” block. Do not change the “Create or Update . . .” text, use default as presented.
-
-* Click on the scrapbook file name to view a scrapbook page revision history.
-
+- Click on the scrapbook file name to view a scrapbook page revision history.
    + Click the “History”button (upper right of screen).
-
-* Click “Code > Download ZIP” to download all the current pages as a backup.
+- Click “Code > Download ZIP” to download all the current pages as a backup.
 
