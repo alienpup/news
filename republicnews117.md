@@ -1,18 +1,12 @@
 # RMS Republic News - Scrapbook Page 117
 
-## (Article 1) Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
+## Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
 
----
+### First in a Series of Articles, BINNS, THE "C. Q. D.' MAN, A Story of a Remarkable Orphan
 
-## First in a Series of Articles, BINNS, THE "C. Q. D.' MAN, A Story of a Remarkable Orphan
+### Tells To-Day How He Became a Wireless Man After Having Been the First on Whom the Serum Anti- Streptococcus Was Used.
 
----
-
-## Tells To-Day How He Became a Wireless Man After Having Been the First on Whom the Serum Anti- Streptococcus Was Used.
-
----
-
-## (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS.
+### (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS.
 
 By the time I was able to walk I had neither father nor mother to speak to. Father, a factory engineer, passed away two days after my birth—almost as soon as he saw me—and mother, a hardy Yorkshire lass, only living a year after this event, you may call it. My full name is Jack Robinson Bins, after my father, and I was born twenty-five years ago—July 4, 1884, so you see I am somewhat of an American by birth.
 
@@ -58,21 +52,15 @@ He enjoyed the trip and we had many chats. He's an excellent man and will make a
 
 My next assignment? Well, I go where I'm sent, but if Capt. Sealby gets a ship I want to go with him and stick with him, too. His example and nobility of command in the face of such peril won for the good brave master the confidence which even wireless could not give the passengers. His splendid example must be ranked with the success of the wireless when history writes the log of the Republic.
 
-## (Article  2) TO TALK WITH SHIPS 8,000 MILES AWAY
-
 ---
 
-## Bids Opened for Wireless Station at Washington Subject to No Interruption
+## TO TALK WITH SHIPS 8,000 MILES AWAY
 
----
+### Bids Opened for Wireless Station at Washington Subject to No Interruption
 
-## THE FLORIDA LIBELED White Star Line Sues for $2,000,000, but Its Opponent Asks to Limit Liability to Value of Vessel and Contents.
+### THE FLORIDA LIBELED White Star Line Sues for $2,000,000, but Its Opponent Asks to Limit Liability to Value of Vessel and Contents.
 
----
-
-## White Star Line Sues for $2,000,000. but Its Opponent Asks to Limit Liabilty to Value of Vessel and Contents.
-
----
+### White Star Line Sues for $2,000,000, but Its Opponent Asks to Limit Liability to Value of Vessel and Contents.
 
 WASHINGTON, Jan. 28.- Following the achievements of wireless telegraphy the recent collision between the steamers Republic and Florida, the Navy Department. to-day opened bids for locating a wireless tower in Washington for communicating with ships at sea, to the distance of 3,000 miles.
 
@@ -110,7 +98,9 @@ The story of the transfer of the passengers and the sinking of the boat is then 
 
 The most serious charge is that there was a lack of presence of mind on the Italian liner, and that In the critical moment, when the Republic appeared out of the fog, the helm of the Florida was thrown suddenly to starboard instead of to port, thus throwing her directly in the path of the Republic, thwarting all the efforts of Capt. Sealby to clear the oncoming Florida.
 
-### To Recognize Bing's Heroism.
+---
+
+## To Recognize Bing's Heroism.
 
 PARIS. Jan. 28. — The Maritime Committee of the Chamber of Deputies has decided to ask the Government to recognize in a special manner the heroism of John R. Binns, the Marconi operator aboard the Republic.
 

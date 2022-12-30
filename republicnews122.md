@@ -1,8 +1,6 @@
 # RMS Republic News - Scrapbook Page 122
 
-## (Article 1, Continued from Page 121, Column 5)
-
-## Republic's Man Through All Kept Accord Perfect And Also *Saved His Juice!"
+### Republic's Man Through All Kept Accord Perfect And Also *Saved His Juice!"
 
 Mohawk at New Redford, the Seneca at New York, and boats we didn't think of like the collier Lebanon.
 
@@ -78,7 +76,7 @@ We are proceeding to New York under orders from Baltic to convoy the Florida.'
 
 ---
 
-## (Article 2) Diagram showing the scene of the collision, and the manner in which the aid of other vessels was brought to the stricken steamship by the use of wireless
+## Diagram showing the scene of the collision, and the manner in which the aid of other vessels was brought to the stricken steamship by the use of wireless
 
 UNDERNEATH a mesh of wires from which the electric flames spurted in streaks and flashes. Ginman, who operates the wireless station at Siasconset, a village on the south shore of Nantucket Island, sat at his work on the morning of January 23d. waiting for the dawn to break. From time to time the gossip and chatter of the big ocean liners came drifting over 8 radius of hundreds of miles of fog-bound sea.
 

@@ -1,18 +1,12 @@
 # RMS Republic News - Scrapbook Page 121
 
-# (Article 1) Daily Wireless Stories of the Sea Told By "Jack Binns, Hero of the Republic
+## Daily Wireless Stories of the Sea Told By "Jack Binns, Hero of the Republic
 
----
+### TAFT AND WIRELESS, BINNS, THE "C. Q. D.' MAN. Fifth Article in Series.
 
-## TAFT AND WIRELESS, BINNS, THE "C. Q. D.' MAN. Fifth Article in Series.
+### Operator Describes How President-Elect Tait Learned the Mysteries of ' Q. D." and the Wireless Wonders
 
----
-
-## Operator Describes How President-Elect Tait Learned the Mysteries of ' Q. D." and the Wireless Wonders
-
----
-
-(Copyright, 1909, by the Press Publishing Company. New York World) BY JOHN ROBINSON BINNS, The Republic’s  “C. Q. D." Man.
+### (Copyright, 1909, by the Press Publishing Company. New York World) BY JOHN ROBINSON BINNS, The Republic’s  “C. Q. D." Man.
 
 ONE of the pleasant memories mans trips acmes the Atlantic the privilege of acting as the President-elect’s tutor in chief in when he was rounding the last leg of his famous trip about world a year ago: We became very friendly, and I may be pardoned for expressing the opinion that Mr. Taft is well versed in the marvels of the Herzian waves.
 
@@ -80,23 +74,15 @@ His smile was 50 contagious that quite frequently found myself laughing with him
 
 ## (Article 2) Operator Ginman Tells How He Does It.
 
----
+### ”But," He Says, "Jack Binns is The One to Write Up."
 
-## ”But," He Says, "Jack Binns is The One to Write Up."
-
----
-
-## Republic's Man Through All Kept Accord Perfect And Also "Saved His Juice!"
-
----
+### Republic's Man Through All Kept Accord Perfect And Also "Saved His Juice!"
 
 "The greatest hour In my right years of wireless service was be tween 6 and 7 last Saturday morning, when we were trying to get messages through the air to ships that could help the Republic."
 
 The speaker was A. H. Ginman, head operator at the Marconi station at Siasconset, on the far side of Nantucket. He and his mates had formed the sole and making link in the wireless chain the sinking steamer and possible rescuers, Through Siasconsot passed the first important messages that told the Baltic and La Lorraine, both outside the wounded Republic’s wireless range, of the danger of the 700 and more souls on board the White Star liner. The world did not know then, and learned only through the wireless some hours later, that the Italian steamer Florida, which had caused the disaster, was standing by.
 
----
-
-## THE MAGICAL PART.
+### THE MAGICAL PART.
 
 In the drama of the sea thus be- gun, which lasted 40 hours and ended with the sinking Sunday night the Republic when in tow of ships summoned by wireless, and the landing a few hours later in Now York of her passengers from another ship that also had been called to her aid by wireless, the greatest chapter in the history of a modern marvel shaped itself.
 
@@ -104,9 +90,7 @@ In this chapter important chapter were Ginman and his mates of Slasconset, the f
 
 For the first the the wireless had shown on a scale that could not be ignored its possibilities for humanity.
 
----
-
-## "BINNS," HE SAYS.
+### ”BINNS," HE SAYS.
 
 "You will excuse me." said Ginman.
 
@@ -124,8 +108,6 @@ But Ginman was persuaded to tell what happened at Siasconset between 6:10 Saturd
 
 “You see we were nearer the Republic than any of the ships that went to her help. She was about 47 miles from us. When she first sent out her distress call the Baltic was about 89 miles from her, to the west, and the Lorraine 120 miles to the east."
 
----
-
 ### What Happens at Siasconset.
 
 The station at Siasconset stands on the moor about a quarter of a mile from the string of summer cottages that line the beach. on the southeast tip of the island.
@@ -142,8 +124,6 @@ It should be here stated that the letters 'C Q D' form the distress signal at se
 
 “The call had come at the dullest tine of night, when we get hardly anything from the land, and only an occasional message from the ships passing east and west of the European lines. We had heard the Republic in our zone, to the westward, about 10 o clock Friday evening, but had made no particular note of her."
 
----
-
 ### Messages for Republic.
 
 In his first message Saturday morning alt the operator on the Republic sent out was C Q D, repeated over and over, with his position, and the ship's signature, M K C.
@@ -156,6 +136,3 @@ In his first message Saturday morning alt the operator on the Republic sent out 
 
 “We then got the White Star office, and they and the navy people, who reached through Woods Hole, started up the cutter at various ports, like the Grisham at Provincetown, the cutter
 
-*** continued on page 122, column 1 ***
-
----

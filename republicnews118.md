@@ -1,18 +1,12 @@
 # RMS Republic News - Scrapbook Page 118
 
-## (Article 1) Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
+## Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
 
----
+### Second Article in Series BINNS, THE "C. Q. D.' MAN The Wireless Operator Aboard Ship.
 
-## Second Article in Series BINNS, THE "C. Q. D.' MAN The Wireless Operator Aboard Ship.
+### Tells To-Day of Experiences in His Cage on a Great Ocean Liner and the Women Who Ask Questions.
 
----
-
-## Tells To-Day of Experiences in His Cage on a Great Ocean Liner and the Women Who Ask Questions.
-
----
-
-## (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS, The Republic's Famous  C. Q. D. Man.
+### (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS, The Republic's Famous  C. Q. D. Man.
 
 A wireless operator must pet and caress his instruments even as a violinist tunes his strings or a chauffeur tests his engines. The spark-gap flashes of the wireless is the ocean song of electricity—the humming of the auto on land.
 
@@ -80,7 +74,9 @@ I can send a message any place on the globe on board. Suppose I want to locate a
 
 “We are bound to an oath of secrecy under Great Britain's laws with a penalty of a year's conviction, of $1,000 fine, or both. Of course, you hear talking all the way across the ocean, and often you are amused and—sometimes scandalized.”
 
-## (Article 2) The Boy Hero, Or Words to That Effect.
+---
+
+## The Boy Hero, Or Words to That Effect.
 
 (Within a few days, tortured public, the popular song writers will commit something like this—maybe worse.)
 
@@ -106,7 +102,7 @@ CHORUS
 
 ---
 
-### (Article 3) WIRELESS.
+## WIRELESS.
 
 The seas are deep and the seas are wide, and or ever the days of creatures were,
 
@@ -171,4 +167,6 @@ Unborn glories and grandeurs wait the releasing touch of a new creator:
 The immense Creation of God is great, but the human spirit shall make greater.
 
 JAMES OPPENHEIM.
+
+---
 

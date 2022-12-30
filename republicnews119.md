@@ -1,18 +1,12 @@
 # RMS Republic News - Scrapbook Page 119
 
-## (Article 1) Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
+## Daily Wireless Stories of the Sea Told by "Jack" Binns, Hero of the Republic
 
----
+### Third Article in Series BINNS, THE "C. Q. D.' MAN Earthquake Told by Wireless.
 
-## Third Article in Series BINNS, THE "C. Q. D.' MAN Earthquake Told by Wireless.
+### How the News of the Great Earthquake in Italy Was Flashed Over the Ocean Immediately After Disaster.
 
----
-
-## How the News of the Great Earthquake in Italy Was Flashed Over the Ocean Immediately After Disaster.
-
----
-
-## (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS, The Republic's Famous  C. Q. D. Man.
+### (Copyrighted, 1909, by the Press Publishing Company.) BY JOHN ROBINSON BINNS, The Republic's Famous  C. Q. D. Man.
 
 "C. Q., C. Q., C. Q.—Earthquake has ravished Italy's boot. Maybe half a million dead. Messina straits wiped out. Greatest disaster in world's history. Old Scylla and Charybdis gone. Stand by-did you feel shocks? F. S.
 
@@ -72,9 +66,9 @@ Their best piece was "Sons of the Sea," composed by "Leggie," I guess. On Christ
 
 The plight wasn't a pleasant one, as our shore leave was up. Finally one of those clownish fellows offered to show us the way back to the ship. He took us two miles about streets and over roads and at last drew up in front of high, inclosed ground. Quickly he darted behind the fence. Several of us gave chase. When we got close we found he had left us at a graveyard. He was dodging among the tombstones, and none of us pursued. It took six hours to get back.
 
-## (Article 2) CHORUS GIRLS MOB BINNS.
-
 ---
+
+## CHORUS GIRLS MOB BINNS.
 
 ### Hero of the Republic Wreck Has Exciting Time at the Theatre.
 
@@ -90,13 +84,11 @@ Binns was standing in a group of about fifty chorus girls while all this was goi
 
 One girl threw her arms around the young man and planted several kisses on his lips, or as near to them Is she could get, before he could shake her off. The girl’s action was the signal for all the others, to imitate. Binns was firmly wedged in the group, but by main force he fought his way clear and darted down the first passageway. It led to the cellar, where the dressing rooms are with loud screams the girls started in pursuit.
 
-## (Article 3) SUIT OVER REPUBLIC'S LOSS
-
 ---
+
+## SUIT OVER REPUBLIC'S LOSS
 
 ### *FLORIDA BLAMED IN LIBEL BY THE OCEANIC C0.*
-
----
 
 ### Lloyd-Italiano Replies by Securing an Order Turning Over the Boat to the Court and Staying the Suit—Says the Florida Was Off Her Course.
 

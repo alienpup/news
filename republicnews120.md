@@ -1,16 +1,10 @@
 # RMS Republic News - Scrapbook Page 120
 
-## (Article 1) Daily Wireless Stories of the Sea Told by Jack" Binns, Hero of the Republic
+## Daily Wireless Stories of the Sea Told by Jack" Binns, Hero of the Republic
 
----
+### Fourth of a Series of Articles Binns the 'C.O. D." Man Romance of Wireless Wireless Telegraphy
 
-## Fourth of a Series of Articles Binns the 'C.O. D." Man Romance of Wireless Wireless Telegraphy
-
----
-
-## Tells To-Day a Story of Love Along the Wireless Waves, When Cupid Sounds the "C. Q. D."
-
----
+### Tells To-Day a Story of Love Along the Wireless Waves, When Cupid Sounds the "C. Q. D."
 
 ### Copyright, 1909, by The Press Publishing Co. BY JOHN ROBINSON BINNS, The Republics Famous “C. Q. D." Man.
 
@@ -134,19 +128,15 @@ The omission of simple dot and dash of the letter “L” made it read like an �
 
 It was not Harkins, but another chum who ran away with Alda.
 
-## \## (Article 2) Kidnapped From Jacks by Gen. Wood and Lionized at Army and Navy Club.
-
 ---
 
-## WAS FORCED ON STAGE.
+## Kidnapped From Jacks by Gen. Wood and Lionized at Army and Navy Club.
 
----
+### WAS FORCED ON STAGE.
 
-## ”Exhibited" at Hippodome
+### ”Exhibited" at Hippodome
 
-## \## Has to Run Kissing Gantlet of Pretty Girls.
-
----
+### Has to Run Kissing Gantlet of Pretty Girls.
 
 Kidnapped by Gen. Leonard Wood from a party of friends in Jack's last night, hoisted into the banquet room of the Army and Navy Club as the guest of honor, forced on the stage of the Hippodrome, surrounded by four hundred flimsily dressed girls of all sizes and—must it be said— ages, and finally forced to run a kissing gantlet which took him to the brink of the stage pond, under the elephants’ quarters, and back and forth through a labyrinth of stage properties, are but a few of the experiences which “Jack” Binns, the hero of the Republic encountered in few hours last night.
 
@@ -174,11 +164,13 @@ He turned when called. The army man pulled him by the hand through Jack's and in
 
 A dozen of his friends stormed the officer's citadel and sought Binns. They were told he was not there. Finally a major, more considerate and less exuberant, returned Binns to his friends. The unexpected and unexplained act of Gen. Wood broke up the programme of entertainment which his friends dad planned. It was considered quite proper by the officers.
 
-## (Article 3) Some Shipwreck Thoughts
+---
+
+## Some Shipwreck Thoughts
 
 We are tempted to inquire what would have happened to Jack Binns, the wireless operator, had he shown any disposition to desert his post of duty when the Republic was sinking. Would not Capt. Sealby have handed him a wallop on the law? We wot in the affirmative.
 
----
-
 Some of those rescued from the Republic yammered mightily because the transfer to the Florida was not made In upholstered steam launches and there were no steam-heated rooms with baths or roof gardens on the latter vessel. And yet these same kickers ride in the Subway every day.
+
+---
 
