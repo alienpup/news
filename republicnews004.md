@@ -1,0 +1,39 @@
+# RMS Republic News - Scrapbook Page 004
+
+## (continued from page 003)
+
+that roar of the gale going outside that only a trained, sensitive ear could detect, La Savoie wanted to know the hour, Washington time.
+
+Later on, through the telephones came a prolonged series of hoarse, shrill dots and dashes having a semblance to the sound a saw makes when it is drawn across iron. That was the wireless station at Wellfleet beginning its evening duty of sending to all steamers within a 1600-mile radius a resume of the news of the day.
+
+Just to show, by comparison, the strength of Wellfleet's voice, Manager Edwards shifted a little lever on an indicator at the left of the table. In the hundredth part of a second the hoarse scrapings had gone somewhere into the night, willy-nilly, and through the telephones was flowing a most gentle burr-burr—another series of sounds so subtle in volume that again only the experienced ears of the operators could be sure of their existence. Manhattan Beach was talking with Fire island. And what had become of Wellfleet?
+
+"Oh," said the manager, "the impedance has cut them off."
+
+Just a little clock-face piece of mechanism was the impedance—a clock face that reminded you of a compass. Only, instead of the hands of a compass, there was a  group of levers, all having a common centre. An adjustment of a few points separated Siasconset from an undesired current. One moment the dots and dashes of Wellfleet had been coming through the air readily enough to the aerial of Siasconset: in the same second the movement of a lever of the impedance had eliminated Wellfleet from the map and established communication with Sandy Hook.
+
+Another movement, a few minutes later, established a range of communication with La Savoie. Still another movement put Siasconset in touch with the Teutonic. And a fourth brought the Re d'Italia within talking distance, Beside this instantaneous transformation of the map, all deeds of the genii in "Arabian Nights" were quite simple and uninspiring.
+
+By and by it was midnight. The gale still howled its wrath against the little wireless house and threatened even the great Oregon pines which held the aerial. It was time for Operator Irwin and Manager Edwards to go home. Their "shift" of duty was ended for the day. About the same time the door of the adjoining room opened, there was a rush of icy air, and, muffled to nose and eyes, Operator John Cowden reported for duty until 7 A.M.
+
+It was growing late when the Adriatic sent her "S. C." through storm-torn air to the aerial of Nantucket island. This liner was on her way from the Mediterranean to New York, and she merely wanted to pass the time of day with Siaconset, to inquire for whatever news Wellfleet had failed to give, and to send a message or two to her owners. Thereafter, from time to time, the Adriatic carried on desultory signalling with Siasconset. 
+
+In this calm of the day's work came tales out of the unwritten log of Siaconset station. Whatever had been recorded with pen and ink was the property of the company, not to be divulged for publication, as, for most interesting instance, the log of the morning of the disaster to the Republic. But the spoken reminiscences had many startling features.
+
+Had the messages from the Mauretania, 600 miles away, been out of the ordinary in the daily history of the station? Not at all. Only a few weeks ago the station indirectly received word from the Corona, which at that time was sailing peacefully in the Mediterranean. From one steamer to another the message passed in its journey across the ocean, eventually reaching Cape Sable, whence in an instant it was flashed through the ether to Siasconset, 800 miles away—a total journey of over 4000 miles.
+
+And then that night in February when the American fleet tried hours and hours to get into communication with Fire island the messages sounded quite distinctly in the telephone receivers at Siasconset. Every word which the fleet sent 2000 miles was caught with as much ease as though the distance between 'Sconset and the battleships was no greater than the width of the road on the moors of Nantucket island. 
+
+But a thousand miles more or less in the journey of a wireless message ceased long ago to excite the three young men in the little room of the Siasconset station. For it is not impossible at any time, by a chance adjustment of the impedance to catch "freak" communications which are drifting around in the atmosphere—to go beyond the prescribed zone of operation. Sometimes Key West obtrudes itself. Frequently Cape Sable, 800 miles away, murmurs a greeting through the telephones. Since, however, it is the special duty of the powerful apparatus at Wellfleet and Cape Sable to deal with phenomena of thousand mile transmission and the like, Siasconset doesn't bother with them; it restricts its attention to commercial affairs. 
+
+And largely for that reason it is the most important station in America. It is located beyond the disturbing influence of land and it is directly adjacent to the route of the great ocean liners. With its average daily deliver of 4000 words the Siaconset station now ranks among the larger stations of the world.
+
+As though Nantucket itself were not far enough from the world—30 miles as the steamer sails and 90 more as the train travels from Boston—Siasconset is a seven-mile ride across a region as flat and uninteresting as a desert. In winter, when the thermometer is approaching zero and a gale is blowing at the rate of 75 miles an hour, it is not an absurd process of thought which gives Siasconset the distinction of being a desolate part of the world.
+
+Half a mile from the beach is the Marconi Wireless Station. Here, about 50 or 60 yards from the main road, are two great poles strung with an assortment of steel cables and other wires. Between them is the one-story peaked roof house. Those poles are masts, such as might be placed on a tremendous ship, and they tower over a little deckhouse. If a gigantic hull were there, the illusion would be complete.  So high in the air go those masts that as you strive to find their tops, you get a bad crook in your neck. One pole is 190 feet in height, the other 185. That net work of steel cables and wires which is woven around and about them resembles for all the world a gargantuan spider's web. 
+
+From contrivances like horizontal trapezes which are attached to the masts there stretches a curious oval of wire ondulating into the configuration of a beach loop-the-loop. In that gale, which blew so violently over the island the other day, all those antennae, as the experts designate the wires, swayed until it seemed as though the web must be torn into a million pieces. But it held together flawlessly.
+
+But for Messrs. Edwards, Irwin and Cowden wild nights and the possibilities of accidents are all in the day's work. If a particularly heavy outburst of the gale should down the intricate aerial apparatus, well and good, they will put on their thick clothing and go out into the barren waste and repair things. If the dynamo should behave badly, well and good, they know how to apply the effective remedy. If the 58 powerful battery cells get out of order, here are men to restore each one of them to its regulation specific gravity of 12.10.
+
+For this is a place where routine and extraordinary duty have alike become matter of fact. Only to the layman outsider is there anything awesome in what transpires from dawn to dusk and from dusk to dawn in the midget house on the storm-swept edge of Nantucket island—even in the spectacle of a genie at a table of instruments listening through telephones for a delicate ripple of sound, and answering with a snarl of voltage—talking with miraculous ease to many ocean liners far out at sea—and watchful for "C. Q. D." messages.
